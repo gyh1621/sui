@@ -18,7 +18,4 @@ services:
 
 networks:
   nginx-proxy:
-    external: true
   public:
-    external:
-      name: public
