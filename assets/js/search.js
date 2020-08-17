@@ -116,7 +116,7 @@ function search(text) {
         else
             window.location = "https://" + text;
     } else {
-        window.location = "https://www.google.com/search?q=" + text;
+        window.location = "https://search.0x7cc.com/?q=" + text;
     }
 }
 
